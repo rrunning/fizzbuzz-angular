@@ -1,3 +1,32 @@
 .home {
   color: red;
 }
+.circle {
+  width: 65px;
+  height: 65px;
+  border-radius: 32px;
+  background-color: #bada55;
+  display: inline-block;
+  margin:10px;
+  color: #b00b13;
+  text-align: center;
+  font-size: 20px;
+  line-height: 60px;
+}
+.fizz {
+  background-color: #907a70;
+  color: #2196f3;
+  border-radius: 32px;
+}
+.buzz {
+  background-color: #d11d05;
+  color: #111111;
+  border-radius: 32px;
+}
+.fizz-buzz {
+  background-color: #ba5b13;
+  color: blue;
+  font-size: 15px;
+  border-radius: 32px;
+
+}
